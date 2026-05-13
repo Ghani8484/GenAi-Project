@@ -1,0 +1,28 @@
+{
+  "embedding_model_name": "all-MiniLM-L6-v2",
+  "llm_model_name": "flan-t5-base",
+  "chunk_size": 256,
+  "top_k_retrieval": 3,
+  "evaluation": {
+    "enabled": true,
+    "gold_dataset_size": 5
+  },
+  "fine_tuning": {
+    "enabled": false,
+    "use_lora": true,
+    "use_qlora": false,
+    "lora_rank": 16,
+    "lora_alpha": 32,
+    "epochs": 3
+  },
+  "logging": {
+    "level": "INFO",
+    "save_results": true,
+    "export_format": "json"
+  },
+  "performance": {
+    "use_gpu": true,
+    "batch_size": 4,
+    "max_sequence_length": 512
+  }
+}

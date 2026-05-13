@@ -1,0 +1,29 @@
+# Core dependencies (required)
+torch>=1.12.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+
+# For advanced features (optional but recommended)
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.0
+transformers>=4.20.0
+tokenizers>=0.12.0
+
+# For fine-tuning (optional)
+peft>=0.4.0
+bitsandbytes>=0.39.0
+
+# For PDF processing (optional, for extending to PDF manuals)
+PyPDF2>=2.0.0
+pdfplumber>=0.7.0
+
+# Additional utilities (optional)
+matplotlib>=3.5.0
+seaborn>=0.11.0
+pandas>=1.3.0
+requests>=2.25.0
+
+# Development dependencies (optional)
+pytest>=7.0.0
+black>=22.0.0
+flake8>=4.0.0

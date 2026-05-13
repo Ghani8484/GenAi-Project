@@ -1,0 +1,127 @@
+{
+  "correct_answers": 14,
+  "correct_citations": 20,
+  "total": 20,
+  "details": [
+    {
+      "query": "Can I return a product after 10 days?",
+      "prediction": "You can return most items within 30 days of delivery for a full refund. The item must be in its original condition, unused, and with all original packaging and tags. Electronics and opened software can be returned within 14 days. Certain items like gift cards, downloadable software, and perishable goods are not returnable.",
+      "similarity_score": 0.8643397688865662,
+      "accurate": true
+    },
+    {
+      "query": "What is the return window for online purchases?",
+      "prediction": "To initiate a return, log into your account and go to Your Orders. Select the item you want to return and choose Return or Replace Items. Select your reason for return from the dropdown menu. Choose your preferred refund method: original payment method or store credit. Print the prepaid return label provided. Pack the item securely with all original accessories and documentation. Drop off the package at any authorized shipping location within 7 days of label generation.",
+      "similarity_score": 0.6619278192520142,
+      "accurate": true
+    },
+    {
+      "query": "Can I return an item if it has been opened?",
+      "prediction": "You can return most items within 30 days of delivery for a full refund. The item must be in its original condition, unused, and with all original packaging and tags. Electronics and opened software can be returned within 14 days. Certain items like gift cards, downloadable software, and perishable goods are not returnable.",
+      "similarity_score": 0.7917817234992981,
+      "accurate": true
+    },
+    {
+      "query": "Is return shipping free?",
+      "prediction": "Standard shipping delivers within 5-7 business days and is free on orders over $50. Expedited shipping delivers within 2-3 business days for $12.99. Priority shipping delivers within 1-2 business days for $24.99. Shipping times are estimates and not guaranteed.",
+      "similarity_score": 0.8243100047111511,
+      "accurate": true
+    },
+    {
+      "query": "How do I initiate a return?",
+      "prediction": "To initiate a return, log into your account and go to Your Orders. Select the item you want to return and choose Return or Replace Items. Select your reason for return from the dropdown menu. Choose your preferred refund method: original payment method or store credit. Print the prepaid return label provided. Pack the item securely with all original accessories and documentation. Drop off the package at any authorized shipping location within 7 days of label generation.",
+      "similarity_score": 0.7285429239273071,
+      "accurate": true
+    },
+    {
+      "query": "How long does a refund take to process?",
+      "prediction": "Once we receive and inspect your returned item, we will process your refund within 5-7 business days. Refunds to credit cards typically appear on your statement within 1-2 billing cycles. Store credit refunds are available immediately after processing. You will receive an email confirmation when your refund is processed.",
+      "similarity_score": 0.809147834777832,
+      "accurate": true
+    },
+    {
+      "query": "Is battery replacement covered under warranty?",
+      "prediction": "All electronics come with a 1-year limited warranty covering manufacturing defects and hardware failures under normal use. The warranty period begins from the date of purchase. We will repair or replace defective products at no charge. Warranty service requires proof of purchase.",
+      "similarity_score": 0.6708606481552124,
+      "accurate": true
+    },
+    {
+      "query": "How long is the warranty period?",
+      "prediction": "All electronics come with a 1-year limited warranty covering manufacturing defects and hardware failures under normal use. The warranty period begins from the date of purchase. We will repair or replace defective products at no charge. Warranty service requires proof of purchase.",
+      "similarity_score": 0.8705849051475525,
+      "accurate": true
+    },
+    {
+      "query": "Does the warranty cover physical damage?",
+      "prediction": "All electronics come with a 1-year limited warranty covering manufacturing defects and hardware failures under normal use. The warranty period begins from the date of purchase. We will repair or replace defective products at no charge. Warranty service requires proof of purchase.",
+      "similarity_score": 0.5122115612030029,
+      "accurate": true
+    },
+    {
+      "query": "How can I claim warranty service?",
+      "prediction": "All electronics come with a 1-year limited warranty covering manufacturing defects and hardware failures under normal use. The warranty period begins from the date of purchase. We will repair or replace defective products at no charge. Warranty service requires proof of purchase.",
+      "similarity_score": 0.5722516179084778,
+      "accurate": true
+    },
+    {
+      "query": "How long does standard shipping take?",
+      "prediction": "Standard shipping delivers within 5-7 business days and is free on orders over $50. Expedited shipping delivers within 2-3 business days for $12.99. Priority shipping delivers within 1-2 business days for $24.99. Shipping times are estimates and not guaranteed.",
+      "similarity_score": 0.7710393667221069,
+      "accurate": true
+    },
+    {
+      "query": "Do you offer express shipping?",
+      "prediction": "If your package is lost or damaged in transit, contact customer service within 48 hours. We will work with the carrier to locate your package or send a replacement. Refused deliveries will be treated as returns and may be subject to return shipping fees.",
+      "similarity_score": 0.4668775200843811,
+      "accurate": false
+    },
+    {
+      "query": "Can I track my order shipment?",
+      "prediction": "Orders are processed within 1-2 business days. Processing may take longer during peak seasons or for large orders. You will receive a confirmation email with tracking information once your order ships. Orders placed after 2 PM EST will be processed the next business day.",
+      "similarity_score": 0.5480647087097168,
+      "accurate": true
+    },
+    {
+      "query": "Are international shipments supported?",
+      "prediction": "Orders are processed within 1-2 business days. Processing may take longer during peak seasons or for large orders. You will receive a confirmation email with tracking information once your order ships. Orders placed after 2 PM EST will be processed the next business day.",
+      "similarity_score": 0.24416948854923248,
+      "accurate": false
+    },
+    {
+      "query": "What should I do if my order is delayed?",
+      "prediction": "To initiate a return, log into your account and go to Your Orders. Select the item you want to return and choose Return or Replace Items. Select your reason for return from the dropdown menu. Choose your preferred refund method: original payment method or store credit. Print the prepaid return label provided. Pack the item securely with all original accessories and documentation. Drop off the package at any authorized shipping location within 7 days of label generation.",
+      "similarity_score": 0.4313820004463196,
+      "accurate": false
+    },
+    {
+      "query": "How do I reset the device to factory settings?",
+      "prediction": "To reset your laptop to factory settings, go to Settings > Update & Security > Recovery. Under Reset this PC, click Get Started. Choose whether to keep your files or remove everything. Follow the on-screen instructions. The process takes 30-60 minutes. Your laptop will restart several times. Ensure the laptop is plugged in throughout the process.",
+      "similarity_score": 0.6937134265899658,
+      "accurate": true
+    },
+    {
+      "query": "How should I charge the device for the first time?",
+      "prediction": "To maximize battery life, enable Battery Saver mode in Settings > Battery. Close unused apps by swiping up from the bottom and swiping apps away. Reduce screen brightness or enable auto-brightness. Turn off WiFi, Bluetooth, and GPS when not in use. Avoid extreme temperatures. Charge your device when it reaches 20% and unplug when it reaches 80% for optimal battery health.",
+      "similarity_score": 0.45324277877807617,
+      "accurate": false
+    },
+    {
+      "query": "What does the indicator light mean?",
+      "prediction": "For screen flickering, update your graphics drivers. Right-click the desktop and select Graphics Properties. Check for driver updates. If the screen is black, try connecting to an external monitor. Press the display toggle key combination (usually Fn + F4 or F8) to cycle through display options. For resolution issues, go to Settings > System > Display and adjust the resolution.",
+      "similarity_score": 0.06970962136983871,
+      "accurate": false
+    },
+    {
+      "query": "How do I optimize battery life?",
+      "prediction": "To maximize battery life, enable Battery Saver mode in Settings > Battery. Close unused apps by swiping up from the bottom and swiping apps away. Reduce screen brightness or enable auto-brightness. Turn off WiFi, Bluetooth, and GPS when not in use. Avoid extreme temperatures. Charge your device when it reaches 20% and unplug when it reaches 80% for optimal battery health.",
+      "similarity_score": 0.7797725200653076,
+      "accurate": true
+    },
+    {
+      "query": "How do I force restart a frozen device?",
+      "prediction": "To reset your laptop to factory settings, go to Settings > Update & Security > Recovery. Under Reset this PC, click Get Started. Choose whether to keep your files or remove everything. Follow the on-screen instructions. The process takes 30-60 minutes. Your laptop will restart several times. Ensure the laptop is plugged in throughout the process.",
+      "similarity_score": 0.4515036940574646,
+      "accurate": false
+    }
+  ]
+}
